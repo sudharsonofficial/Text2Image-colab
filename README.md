@@ -12,8 +12,4 @@ Stable Diffusion is a latent text-to-image diffusion model. Thanks to a generous
 
 ## Comments 
 
-- Our codebase for the diffusion models builds heavily on [OpenAI's ADM codebase](https://github.com/openai/guided-diffusion)
-and [https://github.com/lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch). 
-Thanks for open-sourcing!
-
-- The implementation of the transformer encoder is from [x-transformers](https://github.com/lucidrains/x-transformers) by [lucidrains](https://github.com/lucidrains?tab=repositories). 
+- For more information see [Stable Diffusion - What, Why, How?](https://youtu.be/ltLNYA3lWAQ)
