@@ -12,4 +12,4 @@ Stable Diffusion is a latent text-to-image diffusion model. Thanks to a generous
 
 ## Comments 
 
-- For more information see [Stable Diffusion - What, Why, How?](https://youtu.be/ltLNYA3lWAQ)
+- For more information see [Stable Diffusion - What, Why, How?](https://youtu.be/ltLNYA3lWAQ) and [creating streamlit app using ngrok](https://youtu.be/MUD-pBOnvdo)
