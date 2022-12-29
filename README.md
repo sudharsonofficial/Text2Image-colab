@@ -7,6 +7,7 @@ Stable Diffusion is a latent text-to-image diffusion model. Thanks to a generous
 
 ## Requirements
 
+- Executed in google colab as the execution requires Vram of atleast 10gb.If your local machine meets the requirements,you can run it on your local machine 
 - Hugging face Access tokens
 - Ngrok Auth tokens
 
